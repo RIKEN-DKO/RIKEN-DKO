@@ -1,0 +1,3 @@
+The Data Knowledge Organization Unit at RIKEN Information R&D and Strategy Headquarters (R-IH) promotes technological development related to the realization of information infrastructure necessary for organizing, integrating and promoting the utilization of different kinds of research data produced at RIKEN. 
+Specifically, we promote research and development associated with metadata attached to research data, provide and support metadata technology and tools for laboratories, as well as technology development required for realization of open science. 
+Furthermore, through these metadata-driven, open-science practices, we lead the era of data science and contribute to scientific and technological innovation with RIKEN’s researchers regardless of the research field.
